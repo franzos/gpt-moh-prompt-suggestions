@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+.npm/
+.pnpm/
+
+# Vue.js
+/dist
+/public
+/.cache
+/.env
+
+# IDEs and editors
+/.idea
+*.iml
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+supervisor.log
+supervisor.pid
